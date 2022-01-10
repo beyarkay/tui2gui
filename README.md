@@ -11,7 +11,7 @@ beautiful GUIs that interact with the shell in a secure way.
 
 (This is still a work in progress)
 
-![imgs/proof_of_concept.png]()
+![imgs/proof_of_concept.png](imgs/proof_of_concept.png)
 
 ## Features
 
