@@ -9,7 +9,9 @@ beautiful GUIs that interact with the shell in a secure way.
 
 ## Screenshots
 
-This is still a work in progress
+(This is still a work in progress)
+
+![imgs/proof_of_concept.png]()
 
 ## Features
 
