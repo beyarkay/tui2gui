@@ -26,6 +26,18 @@ beautiful GUIs that interact with the shell in a secure way.
 
 This is still a work in progress
 
+## Scope
+
+This project is not aiming to let you type shell commands in your browser, I'm
+sure something already exists for that.
+
+Instead it covers the case where you want a GUI, but you want the back end to
+be covered by a TUI that you host (on a raspberry pi or something).
+
+This in turn means that tui2gui does not aim to be good at displaying
+everything a terminal can display as soon as the terminal displays it. The idea
+is you want to run a single (TUI-based) command on your phone, and possibly
+want to get confirmation that it ran okay, but nothing more.
 
 ## Contributing
 
